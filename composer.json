@@ -1,0 +1,14 @@
+{
+    "name": "haqdoost/phpai",
+    "description": "ai utilities for PHP programming language.",
+    "autoload": {
+        "psr-4": {"Haqdoost\\phpai\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "Hamid Haghdoost",
+            "email": "tuytoosh@gmail.com"
+        }
+    ],
+    "require": {}
+}
