@@ -1,4 +1,5 @@
-<?php namespace haqdoost\phpai;
+<?php
+namespace Haqdoost\phpai;
 
 class Inference
 {
