@@ -5,13 +5,12 @@
     "autoload": {
         "psr-4": {"Haqdoost\\phpai\\": "src/"}
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Hamid Haghdoost",
             "email": "tuytoosh@gmail.com"
         }
     ],
-
     "require": {}
 }
