@@ -4,6 +4,7 @@
     "autoload": {
         "psr-4": {"Haqdoost\\phpai\\": "src/"}
     },
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Hamid Haghdoost",
