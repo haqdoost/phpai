@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Haqdoost\\phpai\\' => array($baseDir . '/src'),
+    'haqdoost\\phpai\\' => array($baseDir . '/src'),
 );

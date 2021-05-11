@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit56147061ebc8dc1cb3c745b0cd9050bd
 {
     public static $prefixLengthsPsr4 = array (
-        'H' => 
+        'h' => 
         array (
-            'Haqdoost\\phpai\\' => 15,
+            'haqdoost\\phpai\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Haqdoost\\phpai\\' => 
+        'haqdoost\\phpai\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

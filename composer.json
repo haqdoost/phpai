@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "ai utilities for PHP programming language.",
     "autoload": {
-        "psr-4": {"Haqdoost\\phpai\\": "src/"}
+        "psr-4": {"haqdoost\\phpai\\": "src/"}
     },
     "minimum-stability": "dev",
     "authors": [
