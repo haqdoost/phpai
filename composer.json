@@ -1,5 +1,6 @@
 {
     "name": "haqdoost/phpai",
+    "version": "1.0.0",
     "description": "ai utilities for PHP programming language.",
     "autoload": {
         "psr-4": {"Haqdoost\\phpai\\": "src/"}
